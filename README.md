@@ -246,5 +246,7 @@ Additionally, several input manipulation functions were borrowed and modified fr
 [convtas-paper]: https://arxiv.org/pdf/1809.07454.pdf
 [tac]: https://github.com/yluo42/TAC
 
-## [Запуск с Google Colab][https://colab.research.google.com/github/JI411/svoice/blob/google_colab/drz_facebookresearch_svoice.ipynb]
+## [Запуск с Google Colab][colab]
 Во время участия на ШИФТ Марафон 2021 сделал ноутбук для демонстрации возможностей. С ним не получится обучить нормальную модель из-за огранияений Google Colab, но если у вас тоже нет GPU, то это самый приемлимый способ попробовать svoice.
+
+[colab]: https://colab.research.google.com/github/JI411/svoice/blob/google_colab/drz_facebookresearch_svoice.ipynb
